@@ -312,6 +312,12 @@ hr {
 	background: url(../img/bg1.jpg) no-repeat top center;
 }
 
+.sponsors.intro {
+  background: none;
+  background-color: #333333;
+  padding: 20% 4rem;
+}
+
 #intro.intro {
 	padding:20% 0 0 0;
 }
@@ -431,6 +437,18 @@ hr {
 
 .service-icon {
 	margin-bottom: 20px;
+}
+
+.fa.fa-certificate.gold {
+  color: gold;
+}
+
+.fa.fa-certificate.silver {
+  color: silver;
+}
+
+.fa.fa-certificate.bronze {
+  color: darkorange;
 }
 
 div.service-icon-workshop {
